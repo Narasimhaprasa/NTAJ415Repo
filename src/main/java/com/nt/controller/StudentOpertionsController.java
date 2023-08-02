@@ -1,5 +1,9 @@
 package com.nt.controller;
-
+/*
+ * This is controller class which is used for trapping the requests appropriate url which is coming from client
+ * Author : narasimha prasad
+ * Data : August 2 2023
+ */
 import java.util.List;
 import java.util.Map;
 
